@@ -1,0 +1,21 @@
+ACME CLOUD SERVICES INC.
+120 Market Street, Suite 400, San Francisco, CA 94105
+Billing Contact: billing@acmecloud.io
+
+INVOICE
+Invoice Number: INV-2026-1042
+Invoice Date: 2026-10-15
+Due Date: 2026-11-14
+Currency: USD
+
+Bill To:
+Northstar Retail Group
+
+Description | Qty | Unit Price | Amount
+Managed Kubernetes Cluster | 2 | $450.00 | $900.00
+Dedicated Vector Storage (500GB) | 1 | $180.00 | $180.00
+24/7 Enterprise Support Add-on | 1 | $120.00 | $120.00
+
+Subtotal: $1,200.00
+Tax (10%): $120.00
+Total Due: $1,320.00

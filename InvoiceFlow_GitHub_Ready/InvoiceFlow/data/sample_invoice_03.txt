@@ -1,0 +1,14 @@
+NORDIC DESIGN STUDIO AB
+Sveavagen 44, Stockholm
+
+INVOICE #NDS-7731
+Issued: 2026-11-10
+Payment Due: 2026-12-10
+
+Item | Qty | Unit Price | Total
+Brand Identity & SVG Asset Pack | 1 | EUR 2400.00 | EUR 2400.00
+UI Component Library Audit | 4 | EUR 150.00 | EUR 600.00
+
+Subtotal: EUR 3,000.00
+VAT (25%): EUR 750.00
+Total Amount: EUR 3,750.00

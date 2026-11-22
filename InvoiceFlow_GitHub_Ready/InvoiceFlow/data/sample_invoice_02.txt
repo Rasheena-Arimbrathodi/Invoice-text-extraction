@@ -1,0 +1,16 @@
+BENGALURU LOGISTICS & FREIGHT PVT LTD
+42 MG Road, Bengaluru, Karnataka 560001
+
+TAX INVOICE
+Invoice No: BLF/26-27/0891
+Date: 2026-11-02
+Due Date: 2026-11-17
+Currency: INR
+
+Description | Qty | Unit Price | Amount
+Express Air Cargo Pallet | 3 | INR 4500.00 | INR 13500.00
+Cold Chain Packaging Kit | 5 | INR 300.00 | INR 1500.00
+
+Subtotal: INR 15,000.00
+GST (18%): INR 2,700.00
+Grand Total: INR 17,700.00
